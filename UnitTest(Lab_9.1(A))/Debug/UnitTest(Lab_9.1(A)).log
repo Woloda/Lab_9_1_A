@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest(Lab_9.1(A)).cpp
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_9.1(A)\Lab_9.1(A)\Lab_9.1(A).cpp(58,6): warning C4101: 'kurs': unreferenced local variable
+     Creating library E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_9.1(A)\Debug\UnitTest(Lab_9.1(A)).lib and object E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_9.1(A)\Debug\UnitTest(Lab_9.1(A)).exp
+  UnitTest(Lab_9.1(A)).vcxproj -> E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_9.1(A)\Debug\UnitTest(Lab_9.1(A)).dll
